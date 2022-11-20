@@ -7,5 +7,3 @@ Finding the Optimal ICU Risk Score Using Time Iterative Random Forest Model
 - Joined data from various datasets, cleaned and visualized data, completed exploratory data analysis, then trained a random forest model, and did cross-validation. 
 - Analyzed the result and came up with a new risk-scoring system that performs better than the national standard risk-scoring system.
 
-
-<img src="https://user-images.githubusercontent.com/66647718/202897301-b404f660-0d6c-4791-897c-88f582b4e61b.jpg" width="50%">
